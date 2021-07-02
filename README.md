@@ -1,4 +1,4 @@
-### ЫЫЫ
+### Im russian
 
 <!--
 **NickName73/NickName73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
