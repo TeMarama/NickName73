@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://c.tenor.com/wQMAIdApiVoAAAAC/whydodis.gif" />
+    <img src="https://c.tenor.com/wQMAIdApiVoAAAAC/whydodis.gif">
   </p>
   <h3 align="center">
     Im creator of some NiTiS items. I most uses C# (Favorite), Java, Python,
@@ -22,9 +22,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/NickName73/NiTiSCore" alt="Contributors">
-    <img src="https://github.com/NickName73/NickName73/blob/main/Micros/nitis-core-low.png?raw=true" /></a>
-  <a href="https://github.com/NickName73/Gravillaso" alt="Contributors">
-    <img src="https://github.com/NickName73/NickName73/blob/main/Micros/gravillaso-low.png?raw=true" /></a>
+  <a href="https://github.com/NickName73/NiTiSCore" alt="NiTiS.Core">
+    <img src="https://github.com/NickName73/NickName73/blob/main/Micros/nitis-core-low.png?raw=true"></a>
+  <a href="https://github.com/NickName73/Gravillaso" alt="Gravillaso">
+    <img src="https://github.com/NickName73/NickName73/blob/main/Micros/gravillaso-low.png?raw=true"></a>
   </a>
 </p>
