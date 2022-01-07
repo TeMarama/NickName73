@@ -7,7 +7,7 @@
     <img src="https://c.tenor.com/wQMAIdApiVoAAAAC/whydodis.gif">
   </p>
   <h3 align="center">
-    Im creator of some NiTiS items. I most uses C# (Favorite), Java, Python,
+    Im creator of some NiTiS items. I most uses C# 
   </h3>
   <br><br>
   <div align="center">
