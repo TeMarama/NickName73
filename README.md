@@ -5,6 +5,8 @@
 <div align="center">
   <p align="center">
     <img src="https://c.tenor.com/wQMAIdApiVoAAAAC/whydodis.gif">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=NickName73&count_private=true&title_color=fefefe&bg_color=36393f&text_color=fefefe&show_icons=true&hide_border=true&custom_title=NickName73%27s%20Github%20Stats">
   </p>
   <h3 align="center">
     Im creator of some NiTiS items. I most uses C#. You can visit my 
