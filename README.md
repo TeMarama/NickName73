@@ -6,7 +6,7 @@
   <p align="center">
     <img src="https://c.tenor.com/wQMAIdApiVoAAAAC/whydodis.gif">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=NickName73&count_private=true&title_color=fefefe&bg_color=36393f&text_color=fefefe&show_icons=true&hide_border=true&custom_title=NickName73%27s%20Github%20Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NickName73&count_private=true&title_color=F2F2F2&bg_color=333333&text_color=F2F2F2&show_icons=true&hide_border=true&custom_title=NickName73%27s%20Github%20Stats&icon_color=F2F2F2">
   </p>
   <h3 align="center">
     Im creator of some NiTiS items. I most uses C#. You can visit my 
