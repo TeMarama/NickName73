@@ -28,6 +28,6 @@
   <a href="https://github.com/NiTiS-Dev/NiTiSCore" alt="NiTiS.Core">
     <img src="https://github.com/NickName73/NickName73/blob/main/Micros/nitis-core-low.png?raw=true"></a>
   <a href="https://github.com/NickName73/Gravillaso" alt="Gravillaso">
-    <img src="https://github.com/NickName73/NickName73/blob/main/Micros/gravillaso-low.png?raw=true"></a>
+    <img src="https://github.com/NickName73/NickName73/blob/main/Micros/GRavillaso/v2-icon-rounded-128x128.png?raw=true"></a>
   </a>
 </p>
