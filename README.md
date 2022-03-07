@@ -31,3 +31,6 @@
     <img src="https://github.com/NickName73/NickName73/blob/main/Micros/GRavillaso/v2-icon-rounded-128x128.png?raw=true"></a>
   </a>
 </p>
+
+<h4 align="center">Visitor's count 👁️</h4>
+<img src="https://profile-counter.glitch.me/%7Bnickname73%7D/count.svg" />
