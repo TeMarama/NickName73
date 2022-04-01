@@ -32,4 +32,6 @@
 </p>
 
 <h4 align="center">Visitor's count 👁️</h4>
-<img src="https://profile-counter.glitch.me/%7Bnickname73%7D/count.svg" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/%7Bnickname73%7D/count.svg" />
+</div>
