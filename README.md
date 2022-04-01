@@ -12,12 +12,6 @@
     Im creator of some NiTiS items. I most uses C#. You can visit my 
     <a href="https://nickname73.github.io/NickName73">official website</a>
   </h3>
-  <br><br>
-  <div align="center">
-    <h4>Links</h4>
-    <a href="https:\\vk.com/NickName73">Vkontakte</a>
-    <a href="https://steamcommunity.com/id/nitis-nickname73/">Steam</a>
-  <div>
 </div>
   
 <h1 align="center">
