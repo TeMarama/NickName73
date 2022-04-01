@@ -26,14 +26,14 @@
 
 <p align="center">
   
-  <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/f07784f7075ee34b801693f68910ee50c1d37c2f/Badges/profile-grvls.svg" />
-  <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/f07784f7075ee34b801693f68910ee50c1d37c2f/Badges/profile-ntscr.svg" />
-  
   <a href="https://github.com/NiTiS-Dev/NiTiSCore" alt="NiTiS.Core">
-    <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/f07784f7075ee34b801693f68910ee50c1d37c2f/Badges/profile-ntscr.svg" />
+    <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Badges/profile-ntscr.png" />
   </a>
   <a href="https://github.com/NickName73/Gravillaso" alt="Gravillaso">
-    <img src="https://github.com/NickName73/NickName73/blob/main/Micros/GRavillaso/v2-icon-rounded-128x128.png?raw=true"></a>
+    <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Badges/profile-grvls.png" />
+  </a>
+  <a href="https://github.com/NickName73/MoreDumbItems" alt="Gravillaso">
+    <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Badges/profile-mdi.png" />
   </a>
 </p>
 
