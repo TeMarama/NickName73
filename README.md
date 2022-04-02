@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/NickName73/NickName73/main/Gifs/gravinchi-pok.gif">
+    <img src="https://raw.githubusercontent.com/NickName73/NickName73/main/Images/gravinchi-pok.gif">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=NickName73&count_private=true&title_color=F2F2F2&bg_color=333333&text_color=F2F2F2&show_icons=true&hide_border=true&custom_title=NickName73%27s%20Github%20Stats&icon_color=F2F2F2">
   </p>
