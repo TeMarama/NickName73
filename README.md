@@ -17,7 +17,7 @@
 
 <div align="center">
   <h3 align="center">
-    Im creator of some NiTiS items. I most uses C#. You can visit my 
+    I'm the creator of some NiTiS items. I mostly use C#. You can visit my 
     <a href="https://nickname73.github.io/NickName73">official website</a>
   </h3>
 </div>
